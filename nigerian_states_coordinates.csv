@@ -1,0 +1,70 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Aba,5.1167,7.3667,Nigeria,NG,Abia,minor,500183,500183
+Umuahia,5.5333,7.4833,Nigeria,NG,Abia,admin,359230,359230
+Yola,9.2,12.4833,Nigeria,NG,Adamawa,admin,392854,392854
+Mubi,10.2686,13.267,Nigeria,NG,Adamawa,minor,225705,203715
+Numan,9.4669,12.0328,Nigeria,NG,Adamawa,minor,77617,12729
+Uyo,5.008,7.85,Nigeria,NG,Akwa Ibom,admin,554906,436606
+Ikot Abasi,4.5704,7.56,Nigeria,NG,Akwa Ibom,minor,34911,34911
+Onitsha,6.1667,6.7833,Nigeria,NG,Anambra,minor,7635000,7635000
+Awka,6.2,7.0667,Nigeria,NG,Anambra,admin,301657,301657
+Bauchi,10.3158,9.8442,Nigeria,NG,Bauchi,admin,693700,693700
+Yenagoa,4.92,6.26,Nigeria,NG,Bayelsa,admin,105687,70138
+Makurdi,7.73,8.53,Nigeria,NG,Benue,admin,292645,198090
+Otukpo,7.1904,8.13,Nigeria,NG,Benue,minor,68220,68220
+Maiduguri,11.8333,13.15,Nigeria,NG,Borno,admin,1197497,1197497
+Bama,11.5204,13.69,Nigeria,NG,Borno,minor,118121,54699
+Biu,10.6204,12.19,Nigeria,NG,Borno,minor,95005,34234
+Calabar,4.95,8.325,Nigeria,NG,Cross River,admin,461796,247517
+Asaba,5.5167,5.75,Nigeria,NG,Delta,admin,830106,536023
+Abakaliki,8.1,6.33,Nigeria,NG,Ebonyi,admin,309162,161686
+Benin City,6.3176,5.6145,Nigeria,NG,Edo,admin,1190000,668026
+Ado-Ekiti,7.6167,5.2167,Nigeria,NG,Ekiti,admin,446749,446749
+Enugu,6.4403,7.4942,Nigeria,NG,Enugu,admin,715774,715774
+Nsukka,6.8567,7.3958,Nigeria,NG,Enugu,minor,111017,111017
+Abuja,9.0556,7.4914,Nigeria,NG,Federal Capital Territory,primary,1235880,1235880
+Gombe,10.2904,11.17,Nigeria,NG,Gombe,admin,270366,250258
+Kumo,10.0431,11.2183,Nigeria,NG,Gombe,minor,35712,2786
+Owerri,5.4833,7.0333,Nigeria,NG,Imo,admin,1401873,1401873
+Orlu,5.7837,7.0333,Nigeria,NG,Imo,minor,9351,9351
+Dutse,11.7992,9.3503,Nigeria,NG,Jigawa,admin,17129,17129
+Zaria,11.0667,7.7,Nigeria,NG,Kaduna,minor,889000,620673
+Kaduna,10.5231,7.4403,Nigeria,NG,Kaduna,admin,760084,760084
+Kano,12,8.5167,Nigeria,NG,Kano,admin,2828861,2828861
+Katsina,12.9908,7.6017,Nigeria,NG,Katsina,admin,432149,432149
+Funtua,11.5204,7.32,Nigeria,NG,Katsina,minor,180475,136811
+Zango,12.9333,8.5333,Nigeria,NG,Katsina,minor,154743,154743
+Birnin Kebbi,12.4504,4.1999,Nigeria,NG,Kebbi,admin,108164,96517
+Idah,7.1104,6.7399,Nigeria,NG,Kogi,minor,75087,68703
+Lokoja,7.8004,6.7399,Nigeria,NG,Kogi,admin,60579,44722
+Ilorin,8.5,4.55,Nigeria,NG,Kwara,admin,847582,847582
+Ikeja,6.45,3.4,Nigeria,NG,Lagos,admin,15279000,15279000
+Apapa,6.4489,3.3589,Nigeria,NG,Lagos,minor,217362,217362
+Lafia,8.4904,8.52,Nigeria,NG,Nasarawa,admin,127236,31705
+Keffi,8.849,7.8736,Nigeria,NG,Nasarawa,minor,85911,68202
+Minna,9.6139,6.5569,Nigeria,NG,Niger,admin,304113,304113
+Bida,9.0804,6.01,Nigeria,NG,Niger,minor,173849,171656
+Kontagora,10.4004,5.4699,Nigeria,NG,Niger,minor,98754,25534
+Abeokuta,7.15,3.35,Nigeria,NG,Ogun,admin,888924,888924
+Ijebu-Ode,6.8204,3.92,Nigeria,NG,Ogun,minor,209175,199827
+Ikare,7.5304,5.76,Nigeria,NG,Ondo,minor,1099931,700000
+Akure,7.25,5.195,Nigeria,NG,Ondo,admin,420594,420594
+Owo,7.2004,5.59,Nigeria,NG,Ondo,minor,276574,125250
+Ondo,7.0904,4.84,Nigeria,NG,Ondo,minor,257005,255883
+Ile-Ife,7.4667,4.5667,Nigeria,NG,Osun,minor,501952,501952
+Osogbo,7.7667,4.5667,Nigeria,NG,Osun,admin,408245,408245
+Iwo,7.63,4.18,Nigeria,NG,Osun,minor,250443,166934
+Ibadan,7.3964,3.9167,Nigeria,NG,Oyo,admin,2628000,1814570
+Ogbomoso,8.1333,4.25,Nigeria,NG,Oyo,minor,1032000,1032000
+Oyo,7.8333,3.9333,Nigeria,NG,Oyo,minor,736072,213961
+Iseyin,7.9667,3.6,Nigeria,NG,Oyo,minor,98071,98071
+Jos,9.9333,8.8833,Nigeria,NG,Plateau,admin,873943,873943
+Port Harcourt,4.75,7,Nigeria,NG,Rivers,admin,1005904,1005904
+Sokoto,13.0622,5.2339,Nigeria,NG,Sokoto,admin,732178,563861
+Jalingo,8.9004,11.36,Nigeria,NG,Taraba,admin,117757,89789
+Wukari,7.8704,9.78,Nigeria,NG,Taraba,minor,92933,55828
+Damaturu,11.75,11.9667,Nigeria,NG,Yobe,admin,255895,255895
+Gashua,12.8705,11.04,Nigeria,NG,Yobe,minor,125817,23834
+Nguru,12.8804,10.45,Nigeria,NG,Yobe,minor,111014,53948
+Potiskum,11.7104,11.08,Nigeria,NG,Yobe,minor,86002,79465
+Gusau,12.1704,6.66,Nigeria,NG,Zamfara,admin,226857,144993
