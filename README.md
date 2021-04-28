@@ -54,3 +54,11 @@ The findings were communicated and presented using chart visualizations from Pyt
 
 # Future Work
 To explore Nigeria's COVID19 Vaccination dataset and its effect in curbing COVID19 Cases in Nigeria
+
+# NB
+I have plotly charts on this jupyter python notebook. Plotly charts work fine on my local system in the notebook. However, plotly charts are not displayed when uploaded to my github page.
+The issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. See https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/
+
+One nice option is to paste the link to the GitHub notebook into http://nbviewer.jupyter.org/, which will present a rich view of the notebook.
+
+Hope that clear things up!
